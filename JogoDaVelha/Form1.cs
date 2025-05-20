@@ -88,40 +88,63 @@ namespace JogoDaVelha
                 if(btn11.Text == btn12.Text && btn12.Text == btn13.Text && btn11.Text != "")
                 {
                     lblInfo.Text = $"O VENCEDOR É {btn11.Text}";
+                    Desabilitador();
                 }
                 else if(btn21.Text == btn22.Text && btn22.Text == btn23.Text && btn21.Text != "")
                 {
                     lblInfo.Text = $"O VENCEDOR É {btn21.Text}";
+                    Desabilitador();
                 }
                 else if(btn31.Text == btn32.Text && btn32.Text == btn33.Text && btn31.Text != "")
                 {
                     lblInfo.Text = $"O VENCEDOR É {btn31.Text}";
+                    Desabilitador();
                 }
                 else if (btn11.Text == btn21.Text && btn21.Text == btn31.Text && btn11.Text != "")
                 {
                     lblInfo.Text = $"O VENCEDOR É {btn11.Text}";
+                    Desabilitador();
                 }
                 else if (btn12.Text == btn22.Text && btn22.Text == btn32.Text && btn12.Text != "")
                 {
                     lblInfo.Text = $"O VENCEDOR É {btn12.Text}";
+                    Desabilitador();
                 }
                 else if (btn13.Text == btn23.Text && btn23.Text == btn33.Text && btn13.Text != "")
                 {
                     lblInfo.Text = $"O VENCEDOR É {btn13.Text}";
+                    Desabilitador();
                 }
                 else if (btn11.Text == btn22.Text && btn22.Text == btn33.Text && btn11.Text != "")
                 {
                     lblInfo.Text = $"O VENCEDOR É {btn11.Text}";
+                    Desabilitador();
                 }
                 else if (btn13.Text == btn22.Text && btn22.Text == btn31.Text && btn13.Text != "")
                 {
                     lblInfo.Text = $"O VENCEDOR É {btn13.Text}";
+                    Desabilitador();
                 }
                 else if (!btn11.Enabled && !btn12.Enabled && !btn13.Enabled && !btn21.Enabled && !btn22.Enabled && !btn23.Enabled 
                 && !btn31.Enabled && !btn32.Enabled && !btn33.Enabled)
                 {
-                lblInfo.Text = "Empatar";
+                lblInfo.Text = "Empate!";
                 }
+        }
+        public void Desabilitador()
+        {
+            // Irá desabilitar todos os botões quando houver um vencedor.
+            // Para impedir que o jogo continue.
+
+            btn11.Enabled = false;
+            btn12.Enabled = false;
+            btn13.Enabled = false;
+            btn21.Enabled = false;
+            btn22.Enabled = false;
+            btn23.Enabled = false;
+            btn31.Enabled = false;
+            btn32.Enabled = false;
+            btn33.Enabled = false;
         }
     }
 }
