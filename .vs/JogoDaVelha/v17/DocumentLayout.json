@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Rafael.hvsantos1\\source\\repos\\JogoDaVelha\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2ACC74B3-AAEB-4521-A88D-E75213FF0C2B}|JogoDaVelha\\JogoDaVelha.csproj|c:\\users\\rafael.hvsantos1\\source\\repos\\jogodavelha\\jogodavelha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2ACC74B3-AAEB-4521-A88D-E75213FF0C2B}|JogoDaVelha\\JogoDaVelha.csproj|solutionrelative:jogodavelha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2ACC74B3-AAEB-4521-A88D-E75213FF0C2B}|JogoDaVelha\\JogoDaVelha.csproj|c:\\users\\rafael.hvsantos1\\source\\repos\\jogodavelha\\jogodavelha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2ACC74B3-AAEB-4521-A88D-E75213FF0C2B}|JogoDaVelha\\JogoDaVelha.csproj|solutionrelative:jogodavelha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ACC74B3-AAEB-4521-A88D-E75213FF0C2B}|JogoDaVelha\\JogoDaVelha.csproj|c:\\users\\rafael.hvsantos1\\source\\repos\\jogodavelha\\jogodavelha\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "AbsoluteMoniker": "D:0:0:{2ACC74B3-AAEB-4521-A88D-E75213FF0C2B}|JogoDaVelha\\JogoDaVelha.csproj|C:\\Users\\Rafael.hvsantos1\\source\\repos\\JogoDaVelha\\jogodavelha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2ACC74B3-AAEB-4521-A88D-E75213FF0C2B}|JogoDaVelha\\JogoDaVelha.csproj|solutionrelative:jogodavelha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACC74B3-AAEB-4521-A88D-E75213FF0C2B}|JogoDaVelha\\JogoDaVelha.csproj|C:\\Users\\Rafael.hvsantos1\\source\\repos\\JogoDaVelha\\jogodavelha\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{2ACC74B3-AAEB-4521-A88D-E75213FF0C2B}|JogoDaVelha\\JogoDaVelha.csproj|solutionrelative:jogodavelha\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -33,33 +33,31 @@
               "ToolTip": "C:\\Users\\Rafael.hvsantos1\\source\\repos\\JogoDaVelha\\JogoDaVelha\\Properties\\Resources.resx",
               "RelativeToolTip": "JogoDaVelha\\Properties\\Resources.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-05-19T17:25:20.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T17:25:20.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Rafael.hvsantos1\\source\\repos\\JogoDaVelha\\JogoDaVelha\\Form1.cs",
               "RelativeDocumentMoniker": "JogoDaVelha\\Form1.cs",
               "ToolTip": "C:\\Users\\Rafael.hvsantos1\\source\\repos\\JogoDaVelha\\JogoDaVelha\\Form1.cs",
               "RelativeToolTip": "JogoDaVelha\\Form1.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAADwv3oAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T17:17:29.252Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Rafael.hvsantos1\\source\\repos\\JogoDaVelha\\JogoDaVelha\\Form1.cs",
               "RelativeDocumentMoniker": "JogoDaVelha\\Form1.cs",
               "ToolTip": "C:\\Users\\Rafael.hvsantos1\\source\\repos\\JogoDaVelha\\JogoDaVelha\\Form1.cs [Design]",
               "RelativeToolTip": "JogoDaVelha\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T17:14:02.812Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-19T17:14:02.812Z"
             }
           ]
         }
